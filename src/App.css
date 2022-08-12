@@ -1,0 +1,49 @@
+
+
+.App {
+  text-align: center;
+}
+
+.datas
+{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  object-fit: contain;
+  column-gap: 30px;
+  width: 340px;
+
+}
+
+.mapping
+{
+  display:flex;
+  justify-content:space-around;
+  padding:30px;
+  column-gap:20px;
+
+}
+
+.title-body
+{
+  text-align: center;
+  justify-content:center;
+   
+}
+
+.users-contents
+{
+  width: 340px;
+  height: 300px;
+  object-fit: cover;
+  column-gap: 25px;
+  justify-content: space-around;
+
+}
+
+
+.end-button
+{
+  text-align: center;
+  justify-content: center;
+}
